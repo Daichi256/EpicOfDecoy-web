@@ -1,6 +1,8 @@
 # EpicOfDecoy-web
 Epic Of Decoyのウェブ版です
 
+ゲームをプレイする際はF11で全画面にしてからプレイしましょう
+
 https://daichi256.github.io/EpicOfDecoy-web
 
 # このゲームについて
