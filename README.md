@@ -1,6 +1,7 @@
 # EpicOfDecoy-web
 Epic Of Decoyのウェブ版です
 
+https://daichi256.github.io/EpicOfDecoy-web
 
 # このゲームについて
 
@@ -8,7 +9,7 @@ Epic Of Decoyのウェブ版です
 
 キャラクターを動かし、敵を撃ち落とし、ボスを倒しましょう！
 
----
+---git
 
 ## 操作
 
@@ -32,6 +33,7 @@ Epic Of Decoyのウェブ版です
 
 # EpicOFDecoy-windows
 Windows版のダウンロードページはこちら
+
 https://daichi256.itch.io/epic-of-decoy
 
 ## ライセンス
