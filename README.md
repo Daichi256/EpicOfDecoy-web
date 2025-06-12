@@ -11,7 +11,7 @@ https://daichi256.github.io/EpicOfDecoy-web
 
 キャラクターを動かし、敵を撃ち落とし、ボスを倒しましょう！
 
----git
+---
 
 ## 操作
 
@@ -32,6 +32,12 @@ https://daichi256.github.io/EpicOfDecoy-web
 ## タイトル画面
 
 - タイトル画面で、**クリックして難易度を変更**できるよ。
+
+# BGM
+
+ - 諸事情により一部BGMを差し替えております
+
+- 差し替えた際に使わせてもらったBGMはOtoLogic(https://otologic.jp )からお借りしました
 
 # EpicOFDecoy-windows
 Windows版のダウンロードページはこちら
